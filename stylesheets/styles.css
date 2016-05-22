@@ -18,7 +18,6 @@
 /*brand background colour*/
 .brand-background{
   background-size: cover; 
-  background-color: white;
   background-image: url('https://raw.githubusercontent.com/letaylor622/letaylor622.github.io/master/test1.jpg');
   opacity: 0.55;
 }
